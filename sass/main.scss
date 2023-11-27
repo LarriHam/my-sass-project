@@ -1,0 +1,13 @@
+$primary: rgb(236, 134, 206);
+$warning: rgb(59, 233, 88);
+$enable-rounded: false;
+
+.nav {
+    $bg-primary: rgb(77, 59, 238);
+    
+}
+
+
+
+@import "../node_modules/bootstrap/scss/bootstrap.scss";
+
